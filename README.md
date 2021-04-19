@@ -117,7 +117,7 @@ Sq. Ft Living space has the largest positive impact on price. Above average grad
 - If a reasonably accurate model can be achieved, this would enable Acme to make better recommendations for their clients based on the characteristics of their specific home.
 
 ### For further information
-Please review the narrative of our analysis in [my jupyter notebook](./index.ipynb) or review my [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [my jupyter notebook](./index.ipynb) or review my [presentation](./presentation.pdf)
 
 For any additional questions, please contact **jess.c.miles@gmail.com)
 
