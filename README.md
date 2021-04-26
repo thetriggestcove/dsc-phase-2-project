@@ -103,7 +103,7 @@ Sq. Ft Living space has the largest positive impact on price. Above average grad
 - Homeowners may find it simpler to renovate the finishings and craftsmanship of their home than it is to add sq. ft. Even an increase in a single grade level can make a difference.
 - A home in above average Condition also increases price, but not as much as above average Grade.
 
-### Considertions for Additions
+### Considerations for Additions
 <img src="./images/visual5.png">
 - Interestingly, adding a bathroom is the only variable we analyzed that increased price without changing anything else, such as adding more square feet.
 - We can interpret this by concluding that the other types of additions also require adding square feet to increase price.
